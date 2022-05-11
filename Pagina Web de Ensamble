@@ -1,1 +1,11 @@
+Recepcion de Orden de Trabajo
+
+Se crea la incidencia para pasarla a "En curso"
+
+Se crea el formulario para obtencion de los datos del cliente
+
+Se realiza el timing del producto dependiendo de la capacidad de la persona a ensamblar
+
+Se ajusta en los cambios para tambien manejar con el tiempo del producto, creando una opcion de urgencia, la cual crea mas costo al cliente
+
 
