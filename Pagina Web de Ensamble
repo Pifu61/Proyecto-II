@@ -1,1 +1,14 @@
+Control de carga de trabajo
+
+Se crea la incidencia
+
+Se actualiza estado a "En Curso"
+
+Se crean perfiles para cada trabajador
+
+Cada trabajador debera de actualizar sus estados con su trabajo
+
+Se crea y programa una regla, para que  no se empalmen los pedidos de clientes dependiendo de la cantidad de trabajos
+que tenga cada de uno de los ensambladores
+
 
